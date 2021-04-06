@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bear_classifier.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Copy_02_production.ipynb
 
